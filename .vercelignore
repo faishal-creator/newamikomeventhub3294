@@ -1,0 +1,8 @@
+.env
+.env.*
+vendor
+node_modules
+deploy-infinityfree
+public/__MACOSX
+public/template-amikomhub-share-mhs
+public/template-amikomhub-share-mhs.zip
